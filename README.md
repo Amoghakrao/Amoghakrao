@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amoghakrao
+- 👋 Hi, I’m Amogha K
 - 👀 I’m interested in Data Science and Machine learning
 - 🌱 I’m currently learning Data Science and Machine learning
 - 💞️ I’m looking to collaborate on Data Science and ML project.
